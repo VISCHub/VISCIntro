@@ -16,10 +16,7 @@ Tiền điện tử (cryptocurrency) và các hợp đồng thông minh (smart c
 
 ## CÁC KÊNH CHÍNH THỨC
 
-https://www.facebook.com/groups/VISCHub/
-
-https://github.com/VISCHub
-
-https://medium.com/vischub
-
-https://twitter.com/VISCHub
+* Facebook: https://www.facebook.com/groups/VISCHub/
+* GitHub: https://github.com/VISCHub
+* Medium: https://medium.com/vischub
+* Twitter: https://twitter.com/VISCHub
