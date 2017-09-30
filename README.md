@@ -54,3 +54,4 @@ Mô hình của VISC bao gồm 2 nhóm:
 * GitHub: https://github.com/VISCHub
 * Medium: https://medium.com/vischub
 * Twitter: https://twitter.com/VISCHub
+* Trello: https://trello.com/b/G9QABmQX/vischub
