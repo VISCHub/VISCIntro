@@ -20,9 +20,10 @@ Tiền điện tử (cryptocurrency) và các hợp đồng thông minh (smart c
 
 ### MÔ HÌNH
 
-Nguyên tắc xây dựng cộng đồng của VISC:
+Nguyên tắc xây dựng cộng đồng của VISC theo hướng open governance:
 
 * Dân chủ - Democratic
+* Công khai, minh bạch - Transparent
 * Người đóng góp nhiều thì có ảnh hưởng hơn - Meritocratic
 * Ứng dụng triệt để công nghệ và cơ chế để minh bạch - Technocratic
 
@@ -41,6 +42,10 @@ Mô hình của VISC bao gồm 2 nhóm:
 * Góp ý và góp sức cho các hoạt động của cộng đồng
 
 ### PHƯƠNG PHÁP
+
+* Dùng các kênh công khai: GitHub, Facebook Group, Medium, Trello, Slack để làm việc
+* Ứng dụng triệt để công nghệ: Dùng phần mềm, viết công cụ phần mềm cho các hoạt động và tài liệu học
+* Dùng phương pháp tính điểm dựa trên dữ liệu: Thứ tự đóng góp, chất lượng, độ khó, views, shares, likes, ...
 
 ## CÁC KÊNH CHÍNH THỨC
 
