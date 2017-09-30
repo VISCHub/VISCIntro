@@ -15,6 +15,7 @@ Tiền điện tử (cryptocurrency) và các hợp đồng thông minh (smart c
 1. Xây dựng cộng đồng học tập mở, dân chủ ứng dụng open governance
 2. Nghiên cứu và phổ biến Cryptocurrency và Smart Contracts bằng tiếng Việt
 3. Thúc đẩy đào tạo kỹ sư Cryptocurrency và Smart Contracts thông qua tài liệu, test và dự án có hệ thống
+4. Hướng tới xây dựng cộng đồng dùng tokens, Smart Contracts cho các hoạt động thực tiễn
 
 ## MÔ HÌNH VÀ PHƯƠNG PHÁP LÀM VIỆC
 
@@ -43,11 +44,11 @@ Mô hình của VISC bao gồm 2 nhóm:
 
 ### PHƯƠNG PHÁP
 
-* Hướng tới xây dựng cộng đồng dùng tokens, smart contracts
 * Dùng các kênh công khai: GitHub, Facebook Group, Medium, Trello, Slack để làm việc
 * Ứng dụng triệt để công nghệ: Dùng phần mềm, viết công cụ phần mềm cho các hoạt động và tài liệu học
 * Dùng phương pháp tính điểm dựa trên dữ liệu: Thứ tự đóng góp, chất lượng, độ khó, views, shares, likes, ...
 * Hạn chế cái tôi: Mọi bài viết, đóng góp đều được review và người review cũng được credit cùng tác giả
+* Thử nghiệm tokens và smart contracts đối với các hoạt động của cộng đồng để mọi người cùng học tập
 
 ## CÁC KÊNH CHÍNH THỨC
 
