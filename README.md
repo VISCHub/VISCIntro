@@ -1,14 +1,16 @@
-# VISCIntro
+# GIỚI THIỆU VISC
 
 Tiền điện tử (cryptocurrency) và các hợp đồng thông minh (smart contracts) là lĩnh vực công nghệ tương đối mới mẻ nhưng đã có phát triển rất nhanh trong vài năm trở lại đây. Để đáp ứng nhu cầu học tập và bắt kịp công nghệ, nhóm VISC đã được thành lập.
 
+## TẦM NHÌN VÀ MỤC TIÊU
+
 **VISC** - Vietnam's Initiative for Smart Contracts là nhóm phi lợi nhuận được lập ra với tầm nhìn và mục tiêu:
 
-## TẦM NHÌN
+### TẦM NHÌN
 
 Ứng dụng Cryptocurrency và Smart Contracts sẽ thúc đẩy và minh bạch hoá kinh doanh, dịch vụ hành chính công và hiện đại hoá tài chính Việt Nam.
 
-## MỤC TIÊU
+### MỤC TIÊU
 
 1. Xây dựng cộng đồng học tập mở, dân chủ ứng dụng open governance
 2. Nghiên cứu và phổ biến Cryptocurrency và Smart Contracts bằng tiếng Việt
