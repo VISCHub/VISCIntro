@@ -46,6 +46,7 @@ Mô hình của VISC bao gồm 2 nhóm:
 * Dùng các kênh công khai: GitHub, Facebook Group, Medium, Trello, Slack để làm việc
 * Ứng dụng triệt để công nghệ: Dùng phần mềm, viết công cụ phần mềm cho các hoạt động và tài liệu học
 * Dùng phương pháp tính điểm dựa trên dữ liệu: Thứ tự đóng góp, chất lượng, độ khó, views, shares, likes, ...
+* Hạn chế cái tôi: Mọi bài viết, đóng góp đều được review và người review cũng được credit cùng tác giả
 
 ## CÁC KÊNH CHÍNH THỨC
 
